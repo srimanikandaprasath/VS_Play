@@ -1,0 +1,6 @@
+C:\Users\prasath\source\repos\VS_PlayGround\Delegate_LambdaExp_Tut\bin\Debug\Delegate_LambdaExp_Tut.exe.config
+C:\Users\prasath\source\repos\VS_PlayGround\Delegate_LambdaExp_Tut\bin\Debug\Delegate_LambdaExp_Tut.exe
+C:\Users\prasath\source\repos\VS_PlayGround\Delegate_LambdaExp_Tut\bin\Debug\Delegate_LambdaExp_Tut.pdb
+C:\Users\prasath\source\repos\VS_PlayGround\Delegate_LambdaExp_Tut\obj\Debug\Delegate_LambdaExp_Tut.csproj.CoreCompileInputs.cache
+C:\Users\prasath\source\repos\VS_PlayGround\Delegate_LambdaExp_Tut\obj\Debug\Delegate_LambdaExp_Tut.exe
+C:\Users\prasath\source\repos\VS_PlayGround\Delegate_LambdaExp_Tut\obj\Debug\Delegate_LambdaExp_Tut.pdb
