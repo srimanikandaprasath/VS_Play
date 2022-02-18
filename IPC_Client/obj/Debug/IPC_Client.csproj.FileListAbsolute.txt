@@ -1,0 +1,6 @@
+C:\Users\prasath\source\repos\VS_PlayGround\IPC_Client\bin\Debug\IPC_Client.exe.config
+C:\Users\prasath\source\repos\VS_PlayGround\IPC_Client\bin\Debug\IPC_Client.exe
+C:\Users\prasath\source\repos\VS_PlayGround\IPC_Client\bin\Debug\IPC_Client.pdb
+C:\Users\prasath\source\repos\VS_PlayGround\IPC_Client\obj\Debug\IPC_Client.csproj.CoreCompileInputs.cache
+C:\Users\prasath\source\repos\VS_PlayGround\IPC_Client\obj\Debug\IPC_Client.exe
+C:\Users\prasath\source\repos\VS_PlayGround\IPC_Client\obj\Debug\IPC_Client.pdb
