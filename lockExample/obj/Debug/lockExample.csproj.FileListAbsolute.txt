@@ -1,0 +1,6 @@
+C:\Users\prasath\source\repos\VS_PlayGround\lockExample\bin\Debug\lockExample.exe.config
+C:\Users\prasath\source\repos\VS_PlayGround\lockExample\bin\Debug\lockExample.exe
+C:\Users\prasath\source\repos\VS_PlayGround\lockExample\bin\Debug\lockExample.pdb
+C:\Users\prasath\source\repos\VS_PlayGround\lockExample\obj\Debug\lockExample.csproj.CoreCompileInputs.cache
+C:\Users\prasath\source\repos\VS_PlayGround\lockExample\obj\Debug\lockExample.exe
+C:\Users\prasath\source\repos\VS_PlayGround\lockExample\obj\Debug\lockExample.pdb
