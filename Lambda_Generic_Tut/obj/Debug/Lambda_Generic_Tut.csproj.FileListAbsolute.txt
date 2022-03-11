@@ -1,0 +1,6 @@
+C:\Users\prasath\source\repos\VS_PlayGround\Lambda_Generic_Tut\bin\Debug\Lambda_Generic_Tut.exe.config
+C:\Users\prasath\source\repos\VS_PlayGround\Lambda_Generic_Tut\bin\Debug\Lambda_Generic_Tut.exe
+C:\Users\prasath\source\repos\VS_PlayGround\Lambda_Generic_Tut\bin\Debug\Lambda_Generic_Tut.pdb
+C:\Users\prasath\source\repos\VS_PlayGround\Lambda_Generic_Tut\obj\Debug\Lambda_Generic_Tut.csproj.CoreCompileInputs.cache
+C:\Users\prasath\source\repos\VS_PlayGround\Lambda_Generic_Tut\obj\Debug\Lambda_Generic_Tut.exe
+C:\Users\prasath\source\repos\VS_PlayGround\Lambda_Generic_Tut\obj\Debug\Lambda_Generic_Tut.pdb
