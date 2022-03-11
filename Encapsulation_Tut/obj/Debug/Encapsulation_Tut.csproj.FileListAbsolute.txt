@@ -1,0 +1,6 @@
+C:\Users\prasath\source\repos\VS_PlayGround\Encapsulation_Tut\bin\Debug\Encapsulation_Tut.exe.config
+C:\Users\prasath\source\repos\VS_PlayGround\Encapsulation_Tut\bin\Debug\Encapsulation_Tut.exe
+C:\Users\prasath\source\repos\VS_PlayGround\Encapsulation_Tut\bin\Debug\Encapsulation_Tut.pdb
+C:\Users\prasath\source\repos\VS_PlayGround\Encapsulation_Tut\obj\Debug\Encapsulation_Tut.csproj.CoreCompileInputs.cache
+C:\Users\prasath\source\repos\VS_PlayGround\Encapsulation_Tut\obj\Debug\Encapsulation_Tut.exe
+C:\Users\prasath\source\repos\VS_PlayGround\Encapsulation_Tut\obj\Debug\Encapsulation_Tut.pdb
